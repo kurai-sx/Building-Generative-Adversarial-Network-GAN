@@ -13,34 +13,34 @@
 ### Install the Dependencies
 
 ```bash
-pip install tensorflow
-pip install tensorflow-gpu
-pip install matplotlib
-pip install tensorflow-datasets
-pip install ipwidgets
+#pip install tensorflow
+#pip install tensorflow-gpu
+#pip install matplotlib
+#pip install tensorflow-datasets
+#pip install ipwidgets
 ```
 
-### Import the Command
+### Import the Libraries and Models from TensorFlow 
 
 ```bash
-import tensorflow as tf
-import tensorflow_datasets as tfds
-import matplotlib.pyplot as plt
-import numpy as np
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Conv2D, Reshape, Dense, Flatten, LeakyReLU, Dropout, UpSampling2D
-from tensorflow.keras.optimizers import Adam
-from tensorflow.keras.losses import BinaryCrossentropy
-from tensorflow.keras.models import Model
-import os
-from tensorflow.keras.preprocessing.image import array_to_img
-from tensorflow.keras.callbacks import Callback
+#import tensorflow as tf
+#import tensorflow_datasets as tfds
+#import matplotlib.pyplot as plt
+#import numpy as np
+#from tensorflow.keras.models import Sequential
+#from tensorflow.keras.layers import Conv2D, Reshape, Dense, Flatten, LeakyReLU, Dropout, UpSampling2D
+#from tensorflow.keras.optimizers import Adam
+#from tensorflow.keras.losses import BinaryCrossentropy
+#from tensorflow.keras.models import Model
+#import os
+#from tensorflow.keras.preprocessing.image import array_to_img
+#from tensorflow.keras.callbacks import Callback
 ```
 
 ### Saving Models
 ```bash
-generator.save('generator.h5')
-discriminator.save('discriminator.h5')
+#generator.save('generator.h5')
+#discriminator.save('discriminator.h5')
 ```
 
 ## Contributors
