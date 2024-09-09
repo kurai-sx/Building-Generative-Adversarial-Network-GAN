@@ -45,7 +45,8 @@ discriminator.save('discriminator.h5')
 
 ### NOTE
 ```bash
-Make Sure your Epoch is atleast 2000 so that you can generate good quality of images, also it will take a lot of time to train with this epoch but it would be worth it.
+Make Sure your Epoch is atleast 2000 so that you can generate good quality of images,
+also it will take a lot of time to train with this epoch but it would be worth it.
 ```
 
 ## Contributors
