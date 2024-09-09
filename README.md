@@ -1,3 +1,9 @@
+# What is Fashion GAN?
+The Fashion Generative Adversarial Network (GAN) is a project focused on generating realistic fashion images using advanced machine learning techniques. GANs are a class of neural networks that consist of two models: a Generator and a Discriminator. The Generator creates new, synthetic images, while the Discriminator evaluates them against real images to distinguish between generated and authentic ones.
+Key Features
+Image Generation: The GAN is trained to generate high-quality fashion images from random noise, simulating various clothing items and styles.
+Discriminator Training: The Discriminator improves its ability to differentiate between real and generated images, enhancing the quality of the Generator’s output over time.
+Visual Results: The project includes various stages of training with visual results showcasing the improvements in generated image quality.
 # Creation-of-Generative-Adversarial-Network-GAN
 <img src = "https://github.com/kurai-sx/Fashion-Generative-Adversarial-Network-GAN/blob/main/GAN's/Images/GAN%20Model.png" >
 
