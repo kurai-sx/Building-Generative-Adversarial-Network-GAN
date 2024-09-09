@@ -1,1 +1,1 @@
-# Creating-Generative-Adversarial-Network-GAN-
+# Creating-Generative-Adversarial-Network-GAN
